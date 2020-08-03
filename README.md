@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github together.
 
-Adding a line for rebashing example.
+Adding a line for rebashing example, then more changes from myfeatures branch too. 
 
 ## Introduction
 This is an example to show different parts of the Git repository and various commends using a web project.
